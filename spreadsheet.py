@@ -1,8 +1,5 @@
 # coding=utf-8
-# This is a sample Python script.
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 # There are 3 global variables to define:
 #  num_columns: an integer giving the number of columns
